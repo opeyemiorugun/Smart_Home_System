@@ -1,10 +1,10 @@
-streamlit == 1.22.0
+streamlit 
 pandas
 joblib
-scikit-learn == 1.2.2
+scikit-learn
 matplotlib
 xgboost
 lightgbm
 seaborn
 statsmodels
-numpy==1.23.5
+
