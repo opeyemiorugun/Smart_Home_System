@@ -6,4 +6,4 @@ matplotlib
 xgboost
 lightgbm
 seaborn
-statsmodel
+statsmodels
