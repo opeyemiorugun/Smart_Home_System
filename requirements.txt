@@ -7,4 +7,4 @@ xgboost
 lightgbm
 seaborn
 statsmodels
-numpy
+numpy==1.23.5
