@@ -1,4 +1,4 @@
-# Smart Home Energy Optimizer
+# Smart Home System
 
 A machine learning-powered application that forecasts household energy consumption using pre-trained models, and helps users optimize their usage based on selected goals such as cost savings, noise minimization, load balancing, and appliance longevity.
 
@@ -16,10 +16,6 @@ A machine learning-powered application that forecasts household energy consumpti
   * Minimize Energy Costs
 * **Interactive Dashboard**: Visualize consumption trends and optimization impact.
 * **User-Centric Recommendations**: Generates actionable suggestions tailored to the selected goal.
-
----
-
-Perfect — thanks for the clarification! Based on that, here's an updated and accurate `Technologies Used` section, plus adjusted descriptions in other parts of the README to better reflect what you actually used:
 
 ---
 
@@ -65,7 +61,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure (Optional)
+## Project Structure
 
 ```bash
 energy-optimizer/
@@ -79,7 +75,7 @@ energy-optimizer/
 
 ---
 
-## 🧪 Future Improvements
+## Future Improvements
 
 * Real-time energy data integration
 * Integration with smart devices / IoT sensors
@@ -89,7 +85,7 @@ energy-optimizer/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this repository and suggest improvements via pull requests.
 
